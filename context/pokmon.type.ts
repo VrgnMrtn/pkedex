@@ -1,0 +1,2 @@
+export const SET_POKMON = 'SET_POKMON';
+export const SET_POKMON_IDENTIFIER = 'SET_POKMON_IDENTIFIER';
